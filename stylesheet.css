@@ -1,0 +1,72 @@
+body {
+	background-color: #98CBFF;
+}
+
+h1 {
+    font-family: TimesNewRoman;
+	text-align: center;
+	font-weight: bold;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 2vh;
+	border: 1px black solid;
+}
+
+.headerbody {
+	background-color: #A9FFFF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+	
+.monday {
+	background-color: #A9FFFF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: left justify;
+}
+
+.tuesday {
+	background-color: #A9FFFF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.wednesday {
+	background-color: #A9FFFF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.thursday {
+	background-color: #A9FFFF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.friday {
+	background-color: #A9FFFF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.average {
+	background-color: #A9FFFF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
