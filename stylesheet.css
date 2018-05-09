@@ -3,9 +3,25 @@ body {
 }
 
 h1 {
-    font-family: TimesNewRoman;
+    font-family: Courier New;
 	text-align: center;
 	font-weight: bold;
+}
+
+h3 {
+	font-family: Courier New;
+	text-align: center;
+	font-weight: bold;
+}
+
+p {
+	font-family: Courier New;
+	text-align: center;
+}
+
+img {
+	width: 60%;
+	height: 100%;
 }
 
 .grid {
@@ -16,7 +32,7 @@ h1 {
 }
 
 .headerbody {
-	background-color: #A9FFFF;
+	background-color: #94E1FF;
 	padding: 1em;
 	grid-column-start: 1;
 	grid-column-end: span 2;
@@ -24,7 +40,7 @@ h1 {
 }
 	
 .monday {
-	background-color: #A9FFFF;
+	background-color: #94E1FF;
 	padding: 1em;
 	grid-column-start: 1;
 	grid-column-end: span 2;
@@ -32,7 +48,7 @@ h1 {
 }
 
 .tuesday {
-	background-color: #A9FFFF;
+	background-color: #94E1FF;
 	padding: 1em;
 	grid-column-start: 1;
 	grid-column-end: span 2;
@@ -40,7 +56,7 @@ h1 {
 }
 
 .wednesday {
-	background-color: #A9FFFF;
+	background-color: #94E1FF;
 	padding: 1em;
 	grid-column-start: 1;
 	grid-column-end: span 2;
@@ -48,7 +64,7 @@ h1 {
 }
 
 .thursday {
-	background-color: #A9FFFF;
+	background-color: #94E1FF;
 	padding: 1em;
 	grid-column-start: 1;
 	grid-column-end: span 2;
@@ -56,7 +72,7 @@ h1 {
 }
 
 .friday {
-	background-color: #A9FFFF;
+	background-color: #94E1FF;
 	padding: 1em;
 	grid-column-start: 1;
 	grid-column-end: span 2;
@@ -64,7 +80,7 @@ h1 {
 }
 
 .average {
-	background-color: #A9FFFF;
+	background-color: #94E1FF;
 	padding: 1em;
 	grid-column-start: 1;
 	grid-column-end: span 2;
