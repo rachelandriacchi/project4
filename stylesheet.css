@@ -8,6 +8,12 @@ h1 {
 	font-weight: bold;
 }
 
+h2 {
+	font-family: Courier New;
+	text-align: center;
+	font-weight: bold;
+}
+
 h3 {
 	font-family: Courier New;
 	text-align: center;
@@ -20,8 +26,8 @@ p {
 }
 
 img {
-	width: 60%;
-	height: 100%;
+	width: 50%;
+	height: 40%;
 }
 
 .grid {
@@ -80,6 +86,62 @@ img {
 }
 
 .average {
+	background-color: #94E1FF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.claim {
+	background-color: #94E1FF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.elsegundo {
+	background-color: #94E1FF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.cathedral {
+	background-color: #94E1FF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.santa {
+	background-color: #94E1FF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.students {
+	background-color: #94E1FF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.experience {
+	background-color: #94E1FF;
+	padding: 1em;
+	grid-column-start: 1;
+	grid-column-end: span 2;
+	text-align: justify;
+}
+
+.call {
 	background-color: #94E1FF;
 	padding: 1em;
 	grid-column-start: 1;
