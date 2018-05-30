@@ -148,3 +148,45 @@ img {
 	grid-column-end: span 2;
 	text-align: justify;
 }
+
+#navbar {
+ background-color: #000;
+    overflow: hidden;
+}
+
+#navbar a{
+	float:left;
+	display:block;
+	color:white;
+	text-align:center;
+	padding:14px;
+	text-decoration:none;
+}
+
+.content {
+  padding: 16px;
+}
+
+.topnav {
+    background-color: #;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #94E1FF;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #AFE1FF;
+    color: white;
+}
